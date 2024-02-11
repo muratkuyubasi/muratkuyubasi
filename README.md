@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Murat.)](https://git.io/typing-svg)
 <br>
-<h2>Back-End Web Developer</h2>
+<h2>Front-End Web Developer</h2>
 
 
 
